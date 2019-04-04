@@ -34,7 +34,7 @@ def calculate_rel(train_data, col_index, threshold, symbol):
     m, n = mat_data.shape
     rel = -ones(m)
     col_data = mat_data[:, col_index]
-    if symbol == 'lg':
+    if symbol == 'lt':
         rel[where(col_data <= threshold)] = 1
     else:
         rel[where(col_data > threshold)] = 1
