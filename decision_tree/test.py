@@ -90,3 +90,4 @@ test_data = pd.Series(data=[3, 1, 2, 2], index=['age of the patient', 'spectacle
 c = test_decision_tree(tree, test_data)
 
 b = 1
+
