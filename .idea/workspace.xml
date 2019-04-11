@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2fce2a5-2e70-4f18-89e4-c95c83c2110c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/digits.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/classifierStorage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/lenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/create2Normal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/monoDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/ham/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/email/spam/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plot2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotGD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTraining.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/logRegres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotRBF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/digits.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/svmMLiA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/adaboost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTest2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTraining2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/old_adaboost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/Old_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/abalone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10030.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10179.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10181.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10189.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10196.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego8288.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/expTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/regTrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/sine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/treeExplore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/Portland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/kMeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/places.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/portlandClubs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/bills20DataSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/lawAssnRules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/meaning20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/mushroom.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent100bills.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent20bills.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch12/fpGrowth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch12/kosarak.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/iris.data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/secom.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch14/0_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch14/svdRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/err.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/inputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/junk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/kickStart.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanMapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanReducer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVMkickStart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/myout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/pegasos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/proximalSVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/py27dbg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat26" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/wc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinelearninginaction/README.rst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ai$lg.coverage" NAME="lg Coverage Results" MODIFIED="1552231871394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LG" />
+    <SUITE FILE_PATH="coverage/ai$plan.coverage" NAME="plan Coverage Results" MODIFIED="1552229658510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LG" />
+    <SUITE FILE_PATH="coverage/ai$index__2_.coverage" NAME="index (2) Coverage Results" MODIFIED="1553266835836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EM" />
+    <SUITE FILE_PATH="coverage/ai$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1552561131136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LG" />
+    <SUITE FILE_PATH="coverage/ai$SMO.coverage" NAME="SMO Coverage Results" MODIFIED="1553474063496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
+    <SUITE FILE_PATH="coverage/ai$receptive_field.coverage" NAME="receptive_field Coverage Results" MODIFIED="1541721949488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ai$id3.coverage" NAME="id3 Coverage Results" MODIFIED="1551885729019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision_tree" />
+    <SUITE FILE_PATH="coverage/ai$contour_ex.coverage" NAME="contour_ex Coverage Results" MODIFIED="1552125252142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision_tree" />
+    <SUITE FILE_PATH="coverage/ai$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1554941399013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machinelearninginaction/Ch03" />
+    <SUITE FILE_PATH="coverage/ai$test.coverage" NAME="test Coverage Results" MODIFIED="1554801635809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adaboost" />
+    <SUITE FILE_PATH="coverage/ai$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1552559094226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bayes" />
+    <SUITE FILE_PATH="coverage/ai$index.coverage" NAME="index Coverage Results" MODIFIED="1552712029229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="871017267">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="19" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="data" value="1" />
+          <entry key="datas" value="6" />
+          <entry key="datas1" value="1" />
+          <entry key="py" value="73" />
+          <entry key="pyi" value="2" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="73" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="py" value="12360" />
+          <entry key="txt" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Python" value="12360" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SMO.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SVM/SMO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2464">
+              <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+              <folding>
+                <marker date="1554215717510" expanded="true" signature="106:107" ph="..." />
+                <marker date="1554215717510" expanded="true" signature="106:111" ph="..." />
+                <marker date="1554215717510" expanded="true" signature="818:823" ph="..." />
+                <marker date="1554215717510" expanded="true" signature="924:929" ph="..." />
+                <marker date="1554215717510" expanded="true" signature="1058:1063" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adaboost/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="921">
+              <caret line="137" column="34" selection-start-line="137" selection-start-column="34" selection-end-line="137" selection-end-column="34" />
+              <folding>
+                <marker date="1554801648850" expanded="true" signature="59:64" ph="..." />
+                <marker date="1554801648850" expanded="true" signature="414:419" ph="..." />
+                <marker date="1554801648850" expanded="true" signature="848:3435" ph="..." />
+                <marker date="1554801648850" expanded="true" signature="929:938" ph="..." />
+                <marker date="1554801648850" expanded="true" signature="3221:3435" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/README.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch03/trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1821098823/numpy/core/_multiarray_umath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195188">
+              <caret line="6971" column="4" selection-start-line="6971" selection-start-column="4" selection-end-line="6971" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EM/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fig</find>
+      <find>frameon</find>
+      <find>createPlot</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/receptive_field.py" />
+        <option value="$PROJECT_DIR$/decision_tree/id3.py" />
+        <option value="$PROJECT_DIR$/decision_tree/index.py" />
+        <option value="$PROJECT_DIR$/decision_tree/test.py" />
+        <option value="$PROJECT_DIR$/decision_tree/contour_ex.py" />
+        <option value="$PROJECT_DIR$/LG/plan.py" />
+        <option value="$PROJECT_DIR$/LG/lg.py" />
+        <option value="$PROJECT_DIR$/bayes/index.py" />
+        <option value="$PROJECT_DIR$/LG/test.py" />
+        <option value="$PROJECT_DIR$/regression/index.py" />
+        <option value="$PROJECT_DIR$/cluster/index.py" />
+        <option value="$PROJECT_DIR$/EM/index.py" />
+        <option value="$PROJECT_DIR$/SMO.py" />
+        <option value="$PROJECT_DIR$/SVM/SMO.py" />
+        <option value="$PROJECT_DIR$/adaboost/test.py" />
+        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1304" />
+    <option name="y" value="-5" />
+    <option name="width" value="1240" />
+    <option name="height" value="1445" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="adaboost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="EM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="PLA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="SVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/regression" />
+      <recent name="$PROJECT_DIR$/decision_tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/decision_tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.treePlotter">
+    <configuration name="SMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/SMO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EM/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cluster" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adaboost" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adaboost/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="treePlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machinelearninginaction/Ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.index" />
+      <item itemvalue="Python.index (2)" />
+      <item itemvalue="Python.SMO" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.treePlotter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.treePlotter" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.SMO" />
+        <item itemvalue="Python.index (2)" />
+        <item itemvalue="Python.index" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fce2a5-2e70-4f18-89e4-c95c83c2110c" name="Default Changelist" comment="" />
+      <created>1541721177944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541721177944</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ai">
+      <created>1554337958375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554337958375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="给定 阀值, 符号, 数据集, 列号, 计算结果">
+      <created>1554340673601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554340673601</updated>
+    </task>
+    <task id="LOCAL-00003" summary="给定 阀值, 符号, 数据集, 列号, 计算结果">
+      <created>1554340932019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554340932019</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adaboost">
+      <created>1554801964907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554801964907</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="81" y="-5" width="2479" height="1445" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119273625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43923748" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4991554" weight="0.48292294" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32924837" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008446" side_tool="true" weight="0.32924837" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4991554" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.6677672" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ai" />
+    <MESSAGE value="给定 阀值, 符号, 数据集, 列号, 计算结果" />
+    <MESSAGE value="adaboost" />
+    <option name="LAST_COMMIT_MESSAGE" value="adaboost" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decision_tree/contour_ex.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cluster/index.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cluster/index.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="train_data[:, col_index]" language="Python" />
+        <watch expression="D[error_indexs]" language="Python" />
+        <watch expression="error_indexs" language="Python" />
+        <watch expression="D" language="Python" />
+        <watch expression="rel_sign" language="Python" />
+        <watch expression="label_data" language="Python" />
+        <watch expression="where(rel_sign != label_data)" language="Python" />
+        <watch expression="sum(rel_sign != label_data)" language="Python" />
+        <watch expression="fx" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>fx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(rel_sign != label_data)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>where(rel_sign != label_data)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>label_data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rel_sign</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>D</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>error_indexs</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>D[error_indexs]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_data[:, col_index]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_data[col_index]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/pandas/io/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="394" column="44" lean-forward="true" selection-start-line="394" selection-start-column="44" selection-end-line="394" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="709" selection-start-line="709" selection-end-line="709" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="439" column="8" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115220">
+          <caret line="4115" column="28" selection-start-line="4115" selection-start-column="28" selection-end-line="4115" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/sklearn/preprocessing/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7672">
+          <caret line="301" column="8" selection-start-line="301" selection-start-column="8" selection-end-line="301" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59444">
+          <caret line="2142" column="38" selection-start-line="2142" selection-start-column="38" selection-end-line="2142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="1218" column="25" lean-forward="true" selection-start-line="1218" selection-start-column="25" selection-end-line="1218" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/id3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="6" column="46" selection-start-line="2" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/contour_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-644">
+          <caret line="1576" column="8" selection-start-line="1576" selection-start-column="8" selection-end-line="1576" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="317" column="18" selection-start-line="317" selection-start-column="8" selection-end-line="317" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LG/datas1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LG/datas">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LG/plan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/receptive_field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="145" column="32" selection-start-line="145" selection-start-column="32" selection-end-line="145" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LG/data" />
+    <entry file="file://$PROJECT_DIR$/regression/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/defchararray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="968" selection-start-line="968" selection-end-line="968" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LG/lg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="4099" column="8" selection-start-line="4099" selection-start-column="8" selection-end-line="4099" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="3014" column="4" selection-start-line="3014" selection-start-column="4" selection-end-line="3014" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regression/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19124">
+          <caret line="693" column="4" selection-start-line="693" selection-start-column="4" selection-end-line="693" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/scipy/stats/_multivariate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20552">
+          <caret line="748" column="8" selection-start-line="748" selection-start-column="8" selection-end-line="748" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="32" selection-start-line="21" selection-end-line="32" />
+          <folding>
+            <element signature="e#79#97#0" expanded="true" />
+            <marker date="1552712029220" expanded="true" signature="1400:1448" ph="..." />
+            <marker date="1552712029220" expanded="true" signature="1527:2420" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1821098823/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="2392" column="4" selection-start-line="2392" selection-start-column="4" selection-end-line="2392" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/numpy/core/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="229" column="4" selection-start-line="229" selection-start-column="4" selection-end-line="229" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMO.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/SMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <marker date="1554215717510" expanded="true" signature="106:107" ph="..." />
+            <marker date="1554215717510" expanded="true" signature="106:111" ph="..." />
+            <marker date="1554215717510" expanded="true" signature="818:823" ph="..." />
+            <marker date="1554215717510" expanded="true" signature="924:929" ph="..." />
+            <marker date="1554215717510" expanded="true" signature="1058:1063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1821098823/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195188">
+          <caret line="6971" column="4" selection-start-line="6971" selection-start-column="4" selection-end-line="6971" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EM/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adaboost/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="137" column="34" selection-start-line="137" selection-start-column="34" selection-end-line="137" selection-end-column="34" />
+          <folding>
+            <marker date="1554801648850" expanded="true" signature="59:64" ph="..." />
+            <marker date="1554801648850" expanded="true" signature="414:419" ph="..." />
+            <marker date="1554801648850" expanded="true" signature="848:3435" ph="..." />
+            <marker date="1554801648850" expanded="true" signature="929:938" ph="..." />
+            <marker date="1554801648850" expanded="true" signature="3221:3435" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="1423" column="56" lean-forward="true" selection-start-line="1423" selection-start-column="56" selection-end-line="1423" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/ai/local/lib/python2.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="455" column="52" lean-forward="true" selection-start-line="455" selection-start-column="52" selection-end-line="455" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
