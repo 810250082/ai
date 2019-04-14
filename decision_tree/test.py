@@ -7,6 +7,7 @@
 import pandas as pd
 import numpy as np
 import copy
+import pprint
 
 # def load_data():
 #     with open('lenses.data', 'r') as f:
@@ -86,8 +87,9 @@ def test_decision_tree(tree, test_data):
 
 train_data = load_data()
 tree = decision_tree(train_data)
+pprint.pprint(tree)
 test_data = pd.Series(data=[3, 1, 2, 2], index=['age of the patient', 'spectacle prescription', 'astigmatic', 'tear production rate'])
 c = test_decision_tree(tree, test_data)
-
+print(c)
 b = 1
 
