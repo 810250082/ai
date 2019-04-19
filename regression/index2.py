@@ -33,7 +33,6 @@ def load_data(filename):
 #     plt.scatter(x, y)
 
 
-
 def lwlr(test_point, x_arr, y_arr, k=1.0):
     x_mat = mat(x_arr)
     y_mat = mat(y_arr).T
@@ -59,8 +58,8 @@ def lwlr_test(test_arr, x_arr, y_arr, k=1.0):
 
 
 data, label = load_data('ex0.txt')
-w = lwlr(data[0], data, label, 0.001)
-y_hat = lwlr_test(data, data, label, 0.001)
+# w = lwlr(data[0], data, label, 0.002)
+y_hat = lwlr_test(data, data, label, 0.02)
 
 ind = data[:, 1].argsort(0)
 x_sort = data[ind]
