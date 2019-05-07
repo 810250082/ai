@@ -30,3 +30,7 @@ def replaceNanWithMean():
         meanVal = mean(datMat[nonzero(~isnan(datMat[:,i].A))[0],i]) #values that are not NaN (a number)
         datMat[nonzero(isnan(datMat[:,i].A))[0],i] = meanVal  #set NaN values to mean
     return datMat
+
+data = loadDataSet('testSet.txt')
+a, b = pca(data, 1)
+c = 1
